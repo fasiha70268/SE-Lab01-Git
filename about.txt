@@ -1,0 +1,6 @@
+Name: Fasiha
+Registration Number: 70268
+Department: IT
+Semester: 2
+Programming Language: Python
+Software Engineering Interest: Web Development
